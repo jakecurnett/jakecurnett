@@ -11,4 +11,4 @@ I have a strong passion for cybersecurity and love tackling complex challenges w
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting (TOR Browser](https://github.com/jakecurnett/threat-hunting-scenario-tor)**
+- **[Threat Hunting (TOR Browser)](https://github.com/jakecurnett/threat-hunting-scenario-tor)**
